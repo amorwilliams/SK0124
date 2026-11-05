@@ -1,0 +1,5 @@
+.build/
+SK0124.app/
+*.swp
+.DS_Store
+Resources/AppIcon.iconset/
